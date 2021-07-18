@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a4319c90-eef7-4ac7-b03f-b9d765ee8c75
+C:\Users\Tech\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|713f8af5-2c3e-4b32-a806-5245867632aa
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|5f46d9e9-46a9-4c10-bd06-0a3b1d3c38ba
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|d7409a33-e9e7-4e53-8009-f37ae9338b2d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5c0d72eb-4c71-419e-beae-ee72c100ab66
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|3f0cafbd-4ede-4985-ab2c-9f68ae159b8d
+C:\code\PSoC BLE\UpdateDeviceNameProgramatically\WS_UpdateDeviceNameProgramatically\UpdateDeviceNameProgramatically.cydsn\UpdateDeviceNameProgramatically.cyprj|0f901a86-a9ff-45f2-83e3-d5eecd1437dc

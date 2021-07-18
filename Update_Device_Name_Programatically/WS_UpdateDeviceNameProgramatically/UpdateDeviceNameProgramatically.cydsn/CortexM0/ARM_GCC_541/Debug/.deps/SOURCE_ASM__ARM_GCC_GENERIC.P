@@ -1,0 +1,8 @@
+C:/code/PSoC\ BLE/UpdateDeviceNameProgramatically/WS_UpdateDeviceNameProgramatically/UpdateDeviceNameProgramatically.cydsn/CortexM0/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/code/PSoC\ BLE/UpdateDeviceNameProgramatically/WS_UpdateDeviceNameProgramatically/UpdateDeviceNameProgramatically.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/code/PSoC\ BLE/UpdateDeviceNameProgramatically/WS_UpdateDeviceNameProgramatically/UpdateDeviceNameProgramatically.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/code/PSoC\ BLE/UpdateDeviceNameProgramatically/WS_UpdateDeviceNameProgramatically/UpdateDeviceNameProgramatically.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+C:/code/PSoC\ BLE/UpdateDeviceNameProgramatically/WS_UpdateDeviceNameProgramatically/UpdateDeviceNameProgramatically.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+C:/code/PSoC\ BLE/UpdateDeviceNameProgramatically/WS_UpdateDeviceNameProgramatically/UpdateDeviceNameProgramatically.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/code/PSoC\ BLE/UpdateDeviceNameProgramatically/WS_UpdateDeviceNameProgramatically/UpdateDeviceNameProgramatically.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+

@@ -1,0 +1,27 @@
+(DELAYFILE
+ (SDFVERSION "IEEE 1497 4.0")
+ (DATE "2021-07-18T10:08:20Z")
+ (DESIGN "UpdateDeviceNameProgramatically")
+ (VENDOR "Cypress Semiconductor")
+ (PROGRAM "PSoC Creator")
+ (VERSION " 4.4")
+ (DIVIDER .)
+ (TIMESCALE 1 ns)
+ (CELL
+  (CELLTYPE "UpdateDeviceNameProgramatically")
+  (INSTANCE *)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT ClockBlock.hfclk \\BLE\:bless_isr\\.clock (0.000:0.000:0.000))
+    (INTERCONNECT \\BLE\:cy_m0s8_ble\\.interrupt \\BLE\:bless_isr\\.interrupt (1.000:1.000:1.000))
+    (INTERCONNECT LED_R\(0\)_PAD LED_R\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT LED_G\(0\)_PAD LED_G\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT SW4\(0\)_PAD SW4\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT SW3\(0\)_PAD SW3\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT SW5\(0\)_PAD SW5\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT SW2\(0\)_PAD SW2\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT SW1\(0\)_PAD SW1\(0\).pad_in (0.000:0.000:0.000))
+   )
+  )
+ )
+)
